@@ -12,7 +12,6 @@ class MathService
 
     /**
      * Calculate the value of an operation between two number
-     * @note @note sail artisan test --filter=MathServiceTest::testIsPrimeNumber
      * @param int|float $firstNumber
      * @param int|float $secondNumber
      * @param string $operator "accepted values: +, -, *, /
